@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Integral-Unraveler-using-MATLAB
 
 This is a program created by me and Matthew Shih to evaluate the integrals of an equation as well as graph them.
@@ -17,4 +16,3 @@ How to use:
   
 =======
 # Integral-Unraveler-using-MATLAB
->>>>>>> a1743879947d8def88cce5142526fad47e52c0d3
