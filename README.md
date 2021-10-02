@@ -13,6 +13,3 @@ How to use:
    Option '4': Change function allows you to change your current equation <br />
 
 3. Repeat or press 'q' to end the program.
-  
-=======
-# Integral-Unraveler-using-MATLAB
